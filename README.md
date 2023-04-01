@@ -1,5 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and TailwindCss .
-
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and Solidity Chainlink Moralis web3uikit Ethers Hardhat IPFS and tailwindcss.
 ## Getting Started
 
 First, run the development server:
